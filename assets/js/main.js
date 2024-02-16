@@ -6,8 +6,16 @@ console.log(number);
 
 let PI = 3.14 ; /* number */
 
-console.log(PI)
+console.log(PI); /* checking pi input */
 
 PI = 3.1416 ; /* number */
 
-console.log(PI) /* checking PI change */
+console.log(PI); /* checking PI change */
+
+const radius = 8 ; /* number */
+
+console.log(radius); /* checking radius input */
+
+const circle = (number * PI * radius); /* calc circle */
+
+console.log(circle); /* checking circle result */
