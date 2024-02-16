@@ -18,4 +18,14 @@ console.log(radius); /* checking radius input */
 
 const circle = (number * PI * radius); /* calc circle */
 
-console.log(circle); /* checking circle result */
+console.log(circle); /* checking circle result */ 
+
+let name;
+
+name = "Carlo"; /* string */
+
+console.log(name); /* checking name status */ 
+
+name = "Marco"; /* string */
+
+console.log(name); /* checking name status */ 
