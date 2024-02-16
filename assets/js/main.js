@@ -45,3 +45,18 @@ console.log(temperature); /* checking temperature status */
  unless u use Math.PI to rappresent 3.14, there is only their class:
  100 is an interer meanwhile 3.14 is a float.
 */
+
+console.info("il mio messaggio");
+
+/* 
+ console.info vs console.log
+ 
+ By searching on MDN and some forums i've got that
+ there is no significantly difference as output between .log and .info
+ some browsers just use a different visual in console,
+ on the other hand, .info is specifically intented for logging informative messages like comments on the program,
+ meanwhile .log is a method with a general purpouse for logging variables for debugging.
+
+ there are also other commands like console.warning() and console.error() that are used to log messages with other purpouses.
+
+*/
