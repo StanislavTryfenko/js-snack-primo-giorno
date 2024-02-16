@@ -29,3 +29,13 @@ console.log(name); /* checking name status */
 name = "Marco"; /* string */
 
 console.log(name); /* checking name status */ 
+
+let temperature; /* create a var */
+
+temperature = 22.5; /* number */
+
+console.log(temperature); /* checking temperature status */
+
+temperature = (22.5 + 5) /* add +5 at let temperature */
+
+console.log(temperature); /* checking temperature status */
