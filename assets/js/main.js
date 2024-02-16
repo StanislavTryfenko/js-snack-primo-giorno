@@ -36,6 +36,12 @@ temperature = 22.5; /* number */
 
 console.log(temperature); /* checking temperature status */
 
-temperature = (22.5 + 5) /* add +5 at let temperature */
+temperature = (22.5 + 5); /* add +5 at let temperature */
 
 console.log(temperature); /* checking temperature status */
+
+/* 
+ According due to: https://pages.di.unipi.it/milazzo/teaching/AA1011-ALG/JavaScript.pdf,
+ unless u use Math.PI to rappresent 3.14, there is only their class:
+ 100 is an interer meanwhile 3.14 is a float.
+*/
